@@ -154,3 +154,17 @@ pubDate: 2022-11-05
 今回、私が感じたいいことの他にもいいところはたくさんあるので、お近くの電気屋さんで見かけたら体験してみてください。
 
 私はすぐに必要だったので電気屋さんで購入しましたが、ポチッとした方が運んでくれるしポイントたくさんもらえるしでよかったですね。そこは後悔しています。
+
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"ダイキン セラムヒートERFT116AS-T","b":"ダイキン","t":"","d":"https:\/\/m.media-amazon.com","c_p":"","p":["\/images\/I\/21GDWghkYEL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B0G2XFVKVG","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B0G2XFVKVG","a_id":3657745,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/%E3%83%80%E3%82%A4%E3%82%AD%E3%83%B3%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%83%92%E3%83%BC%E3%83%88ERFT116AS-T\/","a_id":3657735,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=%E3%83%80%E3%82%A4%E3%82%AD%E3%83%B3%20%E3%82%BB%E3%83%A9%E3%83%A0%E3%83%92%E3%83%BC%E3%83%88ERFT116AS-T","a_id":3660045,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"p7EqF","s":"s"});
+</script>
+<div id="msmaflink-p7EqF">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
+
