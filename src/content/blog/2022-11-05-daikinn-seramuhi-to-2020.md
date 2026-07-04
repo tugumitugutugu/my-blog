@@ -14,6 +14,8 @@ pubDate: 2022-11-05
 
 ２年前にダイキンの遠赤外線暖房機『セラムヒート』を購入しました。
 
+![ダイキンセラムヒートの正面。遠赤外線ヒーターがオレンジ色に光っている](/ceramheat-front.jpg)
+
 <!-- START MoshimoAffiliateEasyLink -->
 <script type="text/javascript">
 (function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
