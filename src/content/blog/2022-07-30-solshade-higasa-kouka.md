@@ -70,6 +70,19 @@ pubDate: 2022-07-30
 
 私が選んだ日傘はこちら
 
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"日傘 折りたたみ傘 完全遮光 2段折り 8本骨 UVカット 遮光率100% UPF50+ 紫外線カット 晴雨兼用 軽量 耐風 折りたたみ日傘 レディース 傘 長傘 コンパクト 折り畳み傘 暑さ対策 熱中症対策 母の日 ギフト プレゼント solshade ソルシェード (杢スキン\/アイボリー)","b":"ＳＯＬＳＨＡＤＥ","t":"solshade-22","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/31GZRqhVY4L._SL500_.jpg","\/41SVtUIg0RL._SL500_.jpg","\/51hsor65BFL._SL500_.jpg","\/516aAVZNdCL._SL500_.jpg","\/512X9xw0rDL._SL500_.jpg","\/51IPjba-gtL._SL500_.jpg","\/412trY9CwLL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B0C1YP9JWL","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B0C1YP9JWL","a_id":3657745,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/%E6%97%A5%E5%82%98%20%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF%E5%82%98%20%E5%AE%8C%E5%85%A8%E9%81%AE%E5%85%89%202%E6%AE%B5%E6%8A%98%E3%82%8A%208%E6%9C%AC%E9%AA%A8%20UV%E3%82%AB%E3%83%83%E3%83%88%20%E9%81%AE%E5%85%89%E7%8E%87100%25%20UPF50%2B%20%E7%B4%AB%E5%A4%96%E7%B7%9A%E3%82%AB%E3%83%83%E3%83%88%20%E6%99%B4%E9%9B%A8%E5%85%BC%E7%94%A8%20%E8%BB%BD%E9%87%8F%20%E8%80%90%E9%A2%A8%20%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF%E6%97%A5%E5%82%98%20%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9%20%E5%82%98%20%E9%95%B7%E5%82%98%20%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%20%E6%8A%98%E3%82%8A%E7%95%B3%E3%81%BF%E5%82%98%20%E6%9A%91%E3%81%95%E5%AF%BE%E7%AD%96%20%E7%86%B1%E4%B8%AD%E7%97%87%E5%AF%BE%E7%AD%96%20%E6%AF%8D%E3%81%AE%E6%97%A5%20%E3%82%AE%E3%83%95%E3%83%88%20%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88%20solshade%20%E3%82%BD%E3%83%AB%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%89%20(%E6%9D%A2%E3%82%B9%E3%82%AD%E3%83%B3%2F%E3%82%A2%E3%82%A4%E3%83%9C%E3%83%AA%E3%83%BC)\/","a_id":3657735,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=%E6%97%A5%E5%82%98%20%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF%E5%82%98%20%E5%AE%8C%E5%85%A8%E9%81%AE%E5%85%89%202%E6%AE%B5%E6%8A%98%E3%82%8A%208%E6%9C%AC%E9%AA%A8%20UV%E3%82%AB%E3%83%83%E3%83%88%20%E9%81%AE%E5%85%89%E7%8E%87100%25%20UPF50%2B%20%E7%B4%AB%E5%A4%96%E7%B7%9A%E3%82%AB%E3%83%83%E3%83%88%20%E6%99%B4%E9%9B%A8%E5%85%BC%E7%94%A8%20%E8%BB%BD%E9%87%8F%20%E8%80%90%E9%A2%A8%20%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF%E6%97%A5%E5%82%98%20%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9%20%E5%82%98%20%E9%95%B7%E5%82%98%20%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%20%E6%8A%98%E3%82%8A%E7%95%B3%E3%81%BF%E5%82%98%20%E6%9A%91%E3%81%95%E5%AF%BE%E7%AD%96%20%E7%86%B1%E4%B8%AD%E7%97%87%E5%AF%BE%E7%AD%96%20%E6%AF%8D%E3%81%AE%E6%97%A5%20%E3%82%AE%E3%83%95%E3%83%88%20%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88%20solshade%20%E3%82%BD%E3%83%AB%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%89%20(%E6%9D%A2%E3%82%B9%E3%82%AD%E3%83%B3%2F%E3%82%A2%E3%82%A4%E3%83%9C%E3%83%AA%E3%83%BC)","a_id":3660045,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"wzZuP","s":"s"});
+</script>
+<div id="msmaflink-wzZuP">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
+
 ちゃんと外側が白色、内側が黒色です。
 
 １００％完全遮光、UVカット９９.９％以上
@@ -100,9 +113,22 @@ pubDate: 2022-07-30
 
 - ワンタッチ自動開閉
 
-- ６本骨耐風
+- 耐風撥水・晴雨兼用
 
-- 超軽量240g
+- 超軽量189g〜199g
+
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"konciwa 日傘 軽量 189g-199g UVカット率 100% 完全遮光 遮熱 反射冷却素材採用 Ultra AIR ワンタッチ自動開閉 折りたたみ傘 コンパクト 紫外線遮断 耐風撥水 晴雨兼用 携帯便利 メンズ レディース 母の日 父の日","b":"konciwa","t":"","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/31EXM1a425L._SL500_.jpg","\/41C+hyo-B-L._SL500_.jpg","\/413ga0h32qL._SL500_.jpg","\/41rXR13MrdL._SL500_.jpg","\/41CNDwTzwML._SL500_.jpg","\/41t4hSXS21L._SL500_.jpg","\/41fjagYmxKL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B0F8HG1FZH","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B0F8HG1FZH","a_id":3657745,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/konciwa%20%E6%97%A5%E5%82%98%20%E8%BB%BD%E9%87%8F%20189g-199g%20UV%E3%82%AB%E3%83%83%E3%83%88%E7%8E%87%20100%25%20%E5%AE%8C%E5%85%A8%E9%81%AE%E5%85%89%20%E9%81%AE%E7%86%B1%20%E5%8F%8D%E5%B0%84%E5%86%B7%E5%8D%B4%E7%B4%A0%E6%9D%90%E6%8E%A1%E7%94%A8%20Ultra%20AIR%20%E3%83%AF%E3%83%B3%E3%82%BF%E3%83%83%E3%83%81%E8%87%AA%E5%8B%95%E9%96%8B%E9%96%89%20%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF%E5%82%98%20%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%20%E7%B4%AB%E5%A4%96%E7%B7%9A%E9%81%AE%E6%96%AD%20%E8%80%90%E9%A2%A8%E6%92%A5%E6%B0%B4%20%E6%99%B4%E9%9B%A8%E5%85%BC%E7%94%A8%20%E6%90%BA%E5%B8%AF%E4%BE%BF%E5%88%A9%20%E3%83%A1%E3%83%B3%E3%82%BA%20%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9%20%E6%AF%8D%E3%81%AE%E6%97%A5%20%E7%88%B6%E3%81%AE%E6%97%A5\/","a_id":3657735,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=konciwa%20%E6%97%A5%E5%82%98%20%E8%BB%BD%E9%87%8F%20189g-199g%20UV%E3%82%AB%E3%83%83%E3%83%88%E7%8E%87%20100%25%20%E5%AE%8C%E5%85%A8%E9%81%AE%E5%85%89%20%E9%81%AE%E7%86%B1%20%E5%8F%8D%E5%B0%84%E5%86%B7%E5%8D%B4%E7%B4%A0%E6%9D%90%E6%8E%A1%E7%94%A8%20Ultra%20AIR%20%E3%83%AF%E3%83%B3%E3%82%BF%E3%83%83%E3%83%81%E8%87%AA%E5%8B%95%E9%96%8B%E9%96%89%20%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF%E5%82%98%20%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%20%E7%B4%AB%E5%A4%96%E7%B7%9A%E9%81%AE%E6%96%AD%20%E8%80%90%E9%A2%A8%E6%92%A5%E6%B0%B4%20%E6%99%B4%E9%9B%A8%E5%85%BC%E7%94%A8%20%E6%90%BA%E5%B8%AF%E4%BE%BF%E5%88%A9%20%E3%83%A1%E3%83%B3%E3%82%BA%20%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9%20%E6%AF%8D%E3%81%AE%E6%97%A5%20%E7%88%B6%E3%81%AE%E6%97%A5","a_id":3660045,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"sGMF7","s":"s"});
+</script>
+<div id="msmaflink-sGMF7">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
 
 閉じるのまでワンタッチってすごいですね。画期的！
 
