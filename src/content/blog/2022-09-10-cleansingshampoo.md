@@ -122,6 +122,21 @@ iHerbにて購入
 
 これほどの洗浄力を持つシャンプーが他にあるんでしょうか？
 
+※私が使ったニュートロジーナは販売終了のため、現在入手しやすい定番品を紹介します。美容室の施術前にも使われているプレシャンプーで、整髪料やトリートメントの蓄積をしっかり落としてくれます（洗い上がりはきしみにくいタイプ。カラー直後の使用は色落ちしやすいので注意）。
+
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"deartech(ディアテック) カウンセリング プレシャンプー 1000ml","b":"ディアテック","t":"4560107463031","d":"https:\/\/m.media-amazon.com","c_p":"","p":["\/images\/I\/41goArKEBJL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B00574IL7I","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B00574IL7I","a_id":3657745,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/deartech(%E3%83%87%E3%82%A3%E3%82%A2%E3%83%86%E3%83%83%E3%82%AF)%20%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BB%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%83%97%E3%83%AC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%201000ml\/","a_id":3657735,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1&p=deartech(%E3%83%87%E3%82%A3%E3%82%A2%E3%83%86%E3%83%83%E3%82%AF)%20%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BB%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%83%97%E3%83%AC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%201000ml","a_id":3660045,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"13Ut9","s":"s"});
+</script>
+<div id="msmaflink-13Ut9">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
+
 ### クレンジングシャンプーは主に４種類
 
 ・炭酸タイプ（炭酸の細かい泡が毛穴の奥まで入り込み浮かせて落とす）
@@ -143,5 +158,18 @@ iHerbにて購入
 怖いくらいギシギシした洗い心地の後にはスッキリした気持ちよさと軽さが蘇ります。
 
 ずっと触っていたいくらいのツルツルサラサラな髪になりますよ。
+
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"deartech(ディアテック) カウンセリング プレシャンプー 1000ml","b":"ディアテック","t":"4560107463031","d":"https:\/\/m.media-amazon.com","c_p":"","p":["\/images\/I\/41goArKEBJL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B00574IL7I","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B00574IL7I","a_id":3657745,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/deartech(%E3%83%87%E3%82%A3%E3%82%A2%E3%83%86%E3%83%83%E3%82%AF)%20%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BB%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%83%97%E3%83%AC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%201000ml\/","a_id":3657735,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1&p=deartech(%E3%83%87%E3%82%A3%E3%82%A2%E3%83%86%E3%83%83%E3%82%AF)%20%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BB%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%83%97%E3%83%AC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%201000ml","a_id":3660045,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"13Ut9","s":"s"});
+</script>
+<div id="msmaflink-13Ut9">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
 
 最後までお読みいただきありがとうございました。
