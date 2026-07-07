@@ -16,6 +16,8 @@ pubDate: 2022-12-19
 
 結局、滑るとわかっていてもハンターブーツをリピートしてしまいました。
 
+![新旧2足のハンターブーツ。色あせても捨てられず新品をリピート購入](/hunter-boots-old-new.jpg)
+
 <!-- START MoshimoAffiliateEasyLink --><script type="text/javascript">(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;b[a]=b[a]||function(){arguments.currentScript=c.currentScript||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};c.getElementById(a)||(d=c.createElement(f),d.src=g,d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");msmaflink({"n":"国内正規品 HUNTER ハンター レディース オリジナル トール レイン ブーツ 防水 ロングブーツ レインシューズ WFT1000RMA UK3\/22.0cm,BLK","b":"HUNTER(ハンター)","t":"","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/3165j0m1SHL._SL500_.jpg","\/316XzjCJnHL._SL500_.jpg","\/31DItm-W0-L._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B016D50MZ8","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B016D50MZ8","a_id":3657745,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/%E5%9B%BD%E5%86%85%E6%AD%A3%E8%A6%8F%E5%93%81%20HUNTER%20%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9%20%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%20%E3%83%88%E3%83%BC%E3%83%AB%20%E3%83%AC%E3%82%A4%E3%83%B3%20%E3%83%96%E3%83%BC%E3%83%84%20%E9%98%B2%E6%B0%B4%20%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%96%E3%83%BC%E3%83%84%20%E3%83%AC%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%BA%20WFT1000RMA%20UK3%2F22.0cm%2CBLK\/","a_id":3657735,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=%E5%9B%BD%E5%86%85%E6%AD%A3%E8%A6%8F%E5%93%81%20HUNTER%20%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9%20%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%20%E3%83%88%E3%83%BC%E3%83%AB%20%E3%83%AC%E3%82%A4%E3%83%B3%20%E3%83%96%E3%83%BC%E3%83%84%20%E9%98%B2%E6%B0%B4%20%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%96%E3%83%BC%E3%83%84%20%E3%83%AC%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%BA%20WFT1000RMA%20UK3%2F22.0cm%2CBLK","a_id":3660045,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"J6elh","s":"s"});</script><div id="msmaflink-J6elh">リンク</div><!-- MoshimoAffiliateEasyLink END -->
 
 ## ハンターブーツ（長靴）雪道で滑ります！
@@ -39,6 +41,8 @@ pubDate: 2022-12-19
 ハンターレインブーツは底の溝の形状から、**横に滑りやすい**ということに注意してください！
 
 ### 雪質による
+
+![雪が降り積もった夜の街並み](/snowy-street-night.jpg)
 
 ハンターブーツは滑るのですが、ハンターで滑ると言うことは**何を履いていても滑る**んです。
 
@@ -94,6 +98,8 @@ pubDate: 2022-12-19
 
 ### 長持ち＆高コスパ
 
+![新旧ハンターブーツの靴底比較。長年履いてすり減ったソールと新品の溝](/hunter-soles-compare.jpg)
+
 私が初めてハンターレインブーツを購入したのは2008年でした。
 
 今年購入するまでなんと14年も履いていたんです。そんなに長く使用していたのは自分でも驚きました。
@@ -123,6 +129,8 @@ pubDate: 2022-12-19
 長靴にしては高額なハンターレインブーツですが、せっかくいいものを購入したらお手入れすると愛着も湧きますし、長持ちします。
 
 ### 専用の保護剤でケア
+
+![HUNTER純正のUV TECHスプレーとスポンジ](/hunter-uvtech-spray.jpg)
 
 ゴム製品の素材の保護とツヤを取り戻す専用スプレーです。
 
