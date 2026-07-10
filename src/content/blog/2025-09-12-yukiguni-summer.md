@@ -2,6 +2,7 @@
 title: "扇風機？エアコン？雪国の暑さ対策リアルレポ"
 description: "雪国・青森の夏は意外と暑い！私なりの暑さ対策を正直にレポートします。"
 pubDate: 2025-09-12
+heroImage: "../../assets/yukiguni-summer-eyecatch.jpg"
 ---
 
 「雪国って夏は涼しいんでしょ？」と、よく聞かれます。
