@@ -3,9 +3,10 @@ const today = new Date();
 ---
 
 <footer>
-	&copy; {today.getFullYear()} つぐみ. All rights reserved.
-	
+	<a class="home-button" href="/">ホームへ戻る</a>
+	<div>&copy; {today.getFullYear()} つぐみ. All rights reserved.</div>
 </footer>
+<button id="to-top" aria-label="ページの上部へ戻る">↑</button>
 <style>
 	footer {
 		padding: 2em 1em 6em 1em;
@@ -13,17 +14,55 @@ const today = new Date();
 		color: rgb(var(--gray));
 		text-align: center;
 	}
-	.social-links {
-		display: flex;
-		justify-content: center;
-		gap: 1em;
-		margin-top: 1em;
-	}
-	.social-links a {
+	.home-button {
+		display: inline-block;
+		background: var(--accent);
+		color: #fff;
+		padding: 0.5em 1.8em;
+		border-radius: 999px;
 		text-decoration: none;
-		color: rgb(var(--gray));
+		font-weight: bold;
+		margin-bottom: 1.2em;
+		transition: background 0.2s;
 	}
-	.social-links a:hover {
-		color: rgb(var(--gray-dark));
+	.home-button:hover {
+		background: var(--accent-dark);
+	}
+	#to-top {
+		position: fixed;
+		right: 1.2em;
+		bottom: 1.2em;
+		width: 48px;
+		height: 48px;
+		border-radius: 50%;
+		border: none;
+		background: var(--accent);
+		color: #fff;
+		font-size: 1.3em;
+		cursor: pointer;
+		box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+		opacity: 0;
+		visibility: hidden;
+		transition: opacity 0.3s, visibility 0.3s;
+		z-index: 100;
+	}
+	#to-top.show {
+		opacity: 0.9;
+		visibility: visible;
+	}
+	#to-top:hover {
+		background: var(--accent-dark);
 	}
 </style>
+<script is:inline>
+	(function () {
+		var btn = document.getElementById("to-top");
+		if (!btn) return;
+		window.addEventListener("scroll", function () {
+			if (window.scrollY > 300) { btn.classList.add("show"); } else { btn.classList.remove("show"); }
+		}, { passive: true });
+		btn.addEventListener("click", function () {
+			window.scrollTo({ top: 0, behavior: "smooth" });
+		});
+	})();
+</script>
