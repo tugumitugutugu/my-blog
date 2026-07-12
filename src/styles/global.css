@@ -2,3 +2,15 @@
 /* もしもアフィリエイト「かんたんリンク」内へのAdSense自動広告の割り込みを防ぐ */
 [id^="msmaflink"] .google-auto-placed{display:none !important;}
 [id^="msmaflink"] ins.adsbygoogle{display:none !important;}
+
+
+/* ブログカード（内部リンク用） */
+.blog-card{margin:1.5em 0;}
+.blog-card a{display:flex;align-items:stretch;border:2px solid var(--accent);border-radius:12px;overflow:hidden;text-decoration:none;color:rgb(var(--gray-dark));background:#fff;transition:box-shadow .2s,transform .2s;}
+.blog-card a:hover{box-shadow:0 4px 14px rgba(91,191,170,.35);transform:translateY(-2px);}
+.blog-card .blog-card-thumb{flex:0 0 130px;min-height:100px;background:linear-gradient(135deg,var(--accent),var(--accent-dark));display:flex;align-items:center;justify-content:center;color:#fff;font-weight:bold;font-size:.8em;letter-spacing:.08em;}
+.blog-card img.blog-card-thumb{object-fit:cover;border-radius:0;height:auto;}
+.blog-card .blog-card-body{padding:.9em 1.1em;display:flex;flex-direction:column;justify-content:center;gap:.4em;}
+.blog-card .blog-card-label{align-self:flex-start;background:var(--accent);color:#fff;font-size:.68em;font-weight:bold;padding:.15em .9em;border-radius:999px;}
+.blog-card .blog-card-title{font-weight:bold;line-height:1.5;font-size:.95em;}
+@media (max-width:600px){.blog-card .blog-card-thumb{flex-basis:90px;font-size:.7em;}}
