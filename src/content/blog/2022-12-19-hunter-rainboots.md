@@ -89,6 +89,8 @@ msmaflink({"n":"国内正規品 HUNTER ハンター レディース オリジナ
 
 ハンターレインブーツを履くと思うとスキニーパンツを選んでしまいます。
 
+ちなみに、ハンターのレインブーツはとても種類が豊富です。私が購入したロングタイプ（オリジナルトール）は、しゃがむことの多い雪遊びや農作業にはあまり向きませんが、ショート丈やチェルシータイプなど、長さもデザインも色々売られています。自分の使い方に合わせて選べるのもハンターの魅力です。
+
 ### 程よいフィット感
 
 おしゃれに見えるのは、程よいフィット感のおかげであると思います。
@@ -134,6 +136,19 @@ msmaflink({"n":"国内正規品 HUNTER ハンター レディース オリジナ
 ブーツを脱ぐ時に一緒にソックスも抜けてしまうからです。
 
 フィット感があるので、ソックスを使用する場合はブーツのサイズを１サイズか２サイズお好みでアップするのがおすすめです。
+
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"ハンター HUNTER ユニセックス RECYCLED PLAY TALL BOOT SOCK ブーツソックス ショート用 UAS3418RPY-HWT HWT：ハンターホワイト L","b":"HUNTER","t":"UAS3418RPY-HWT","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/415USBUCusL._SL500_.jpg","\/51xlwYp-OEL._SL500_.jpg","\/31gutn+s3WL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B0B8TJ337K","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B0B8TJ337K","a_id":3657745,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%20HUNTER%20%E3%83%A6%E3%83%8B%E3%82%BB%E3%83%83%E3%82%AF%E3%82%B9%20RECYCLED%20PLAY%20TALL%20BOOT%20SOCK%20%E3%83%96%E3%83%BC%E3%83%84%E3%82%BD%E3%83%83%E3%82%AF%E3%82%B9%20%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E7%94%A8%20UAS3418RPY-HWT%20HWT%EF%BC%9A%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%20L\/","a_id":3657735,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%20HUNTER%20%E3%83%A6%E3%83%8B%E3%82%BB%E3%83%83%E3%82%AF%E3%82%B9%20RECYCLED%20PLAY%20TALL%20BOOT%20SOCK%20%E3%83%96%E3%83%BC%E3%83%84%E3%82%BD%E3%83%83%E3%82%AF%E3%82%B9%20%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E7%94%A8%20UAS3418RPY-HWT%20HWT%EF%BC%9A%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%20L","a_id":3660045,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"KUPlR","s":"s"});
+</script>
+<div id="msmaflink-KUPlR">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
 
 ## ハンターブーツ（長靴）長く使うためのお手入れ方法
 
