@@ -106,4 +106,4 @@ msmaflink({"n":"無印良品 360度首振り機能付きサーキュレーター
 
 雪国の夏の暑さ対策については、こちらの記事もどうぞ。
 
-[扇風機？エアコン？雪国の暑さ対策リアルレポ](/blog/2025-09-12-yukiguni-summer/)
+<div class="blog-card"><a href="/blog/2025-09-12-yukiguni-summer/"><span class="blog-card-thumb">つぐぶろぐ</span><span class="blog-card-body"><span class="blog-card-label">あわせて読みたい</span><span class="blog-card-title">扇風機？エアコン？雪国の暑さ対策リアルレポ</span></span></a></div>
