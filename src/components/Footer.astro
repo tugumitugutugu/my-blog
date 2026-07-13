@@ -3,7 +3,10 @@ const today = new Date();
 ---
 
 <footer>
-	<a class="home-button" href="/">ホームへ戻る</a>
+	<nav class="footer-nav">
+		<a class="footer-button" href="/">ホームへ戻る</a>
+		<a class="footer-button" href="/blog">記事一覧</a>
+	</nav>
 	<div>&copy; {today.getFullYear()} つぐみ. All rights reserved.</div>
 </footer>
 <button id="to-top" aria-label="ページの上部へ戻る">↑</button>
@@ -14,7 +17,14 @@ const today = new Date();
 		color: rgb(var(--gray));
 		text-align: center;
 	}
-	.home-button {
+	.footer-nav {
+		display: flex;
+		justify-content: center;
+		gap: 0.8em;
+		flex-wrap: wrap;
+		margin-bottom: 1.2em;
+	}
+	.footer-button {
 		display: inline-block;
 		background: var(--accent);
 		color: #fff;
@@ -22,10 +32,9 @@ const today = new Date();
 		border-radius: 999px;
 		text-decoration: none;
 		font-weight: bold;
-		margin-bottom: 1.2em;
 		transition: background 0.2s;
 	}
-	.home-button:hover {
+	.footer-button:hover {
 		background: var(--accent-dark);
 	}
 	#to-top {
