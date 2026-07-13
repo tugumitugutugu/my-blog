@@ -35,6 +35,19 @@ pubDate: 2026-07-10
 特に大きかったのは、**店舗で実物を見られたこと**。
 ネットのレビューだけではわからない「音の質」や「サイズ感」を自分の耳と目で確かめられたのは、無印ならではだと思います。
 
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"無印良品 360度首振り機能付きサーキュレーター18畳 MJ-OCF18 LA1SBA3A","b":"無印良品","t":"LA1SBA3A","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/41ZMV1KDIwL._SL500_.jpg","\/313cf73Cf8L._SL500_.jpg","\/41c26KWatQL._SL500_.jpg","\/31jTyMd6wYL._SL500_.jpg","\/417REPFsMSL._SL500_.jpg","\/31x1zVj99nL._SL500_.jpg","\/41mnvWf-JHL._SL500_.jpg","\/31wVX8Z5UQL._SL500_.jpg","\/41ilmcZx9HL._SL500_.jpg","\/41DhOSimCuL._SL500_.jpg","\/41dBvNprQyL._SL500_.jpg","\/41YM13lhMoL._SL500_.jpg","\/41ROczKv8XL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B0D4M9YFW8","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B0D4M9YFW8","a_id":3657745,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/%E7%84%A1%E5%8D%B0%E8%89%AF%E5%93%81%20360%E5%BA%A6%E9%A6%96%E6%8C%AF%E3%82%8A%E6%A9%9F%E8%83%BD%E4%BB%98%E3%81%8D%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC18%E7%95%B3%20MJ-OCF18%20LA1SBA3A\/","a_id":3657735,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1&p=%E7%84%A1%E5%8D%B0%E8%89%AF%E5%93%81%20360%E5%BA%A6%E9%A6%96%E6%8C%AF%E3%82%8A%E6%A9%9F%E8%83%BD%E4%BB%98%E3%81%8D%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC18%E7%95%B3%20MJ-OCF18%20LA1SBA3A","a_id":3660045,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"E564q","s":"s"});
+</script>
+<div id="msmaflink-E564q">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
+
 ## ３．使ってみた感想：静かさに拍子抜け
 
 ![無印良品の360度首振りサーキュレーター本体](../../assets/muji-circulator-front.jpg)
