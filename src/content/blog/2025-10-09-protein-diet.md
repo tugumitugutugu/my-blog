@@ -119,3 +119,7 @@ msmaflink({"n":"【体重計】INSMART 体脂肪計・体組成計 16項目測�
 無理に食事を減らすよりも、**必要な栄養素を整えること**が大切。　　　　　　　　　　　　　　　　　　　　焦らず、自分のペースで続けていけば、体はきっと応えてくれます。
 
 「食べてないのに太る」と悩んでいる方は、まずタンパク質から見直すことをおすすめします。　　　　　　　そして、筋肉量をチェックできる体組成計を活用しながら、ChatGPTと相談して食事内容を焼成していくと、その時の自分に合ったダイエットを安心して続けられます。
+
+体重だけでなく体組成を記録するなら、スマホ連動の体組成計が便利です。
+
+<div class="blog-card"><a href="/blog/2022-06-27-aitaisoseikei-infield/"><img class="blog-card-thumb" src="/infield-eyecatch.jpg" alt=""><span class="blog-card-body"><span class="blog-card-label">あわせて読みたい</span><span class="blog-card-title">AI体重計 InFieldとアプリをレビュー</span></span></a></div>

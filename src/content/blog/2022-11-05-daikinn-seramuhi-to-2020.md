@@ -186,3 +186,6 @@ msmaflink({"n":"ダイキン セラムヒートERFT116AS-T","b":"ダイキン","
 <div id="msmaflink-p7EqF">リンク</div>
 <!-- MoshimoAffiliateEasyLink END -->
 
+雪国の冬の必需品といえば、雪道を歩くためのブーツも外せません。
+
+<div class="blog-card"><a href="/blog/2022-12-19-hunter-rainboots/"><img class="blog-card-thumb" src="/hunter-eyecatch.jpg" alt=""><span class="blog-card-body"><span class="blog-card-label">あわせて読みたい</span><span class="blog-card-title">HUNTERレインブーツ、雪道は危険！？でもオールシーズン使える驚きの理由とは</span></span></a></div>
