@@ -7,6 +7,10 @@ const today = new Date();
 		<a class="footer-button" href="/">ホームへ戻る</a>
 		<a class="footer-button" href="/blog">記事一覧</a>
 	</nav>
+	<nav class="footer-links">
+		<a href="/about">つぐぶろぐについて</a>
+		<a href="/privacy-policy">プライバシーポリシー</a>
+	</nav>
 	<div>&copy; {today.getFullYear()} つぐみ. All rights reserved.</div>
 </footer>
 <button id="to-top" aria-label="ページの上部へ戻る">↑</button>
@@ -36,6 +40,21 @@ const today = new Date();
 	}
 	.footer-button:hover {
 		background: var(--accent-dark);
+	}
+	.footer-links {
+		display: flex;
+		justify-content: center;
+		gap: 1.5em;
+		flex-wrap: wrap;
+		margin-bottom: 1em;
+		font-size: 0.9em;
+	}
+	.footer-links a {
+		color: rgb(var(--gray));
+		text-decoration: underline;
+	}
+	.footer-links a:hover {
+		color: var(--accent);
 	}
 	#to-top {
 		position: fixed;
