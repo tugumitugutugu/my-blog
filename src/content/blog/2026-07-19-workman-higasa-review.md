@@ -111,7 +111,18 @@ updatedDate: 2026-07-24
 
 近くにワークマンがない方には、同じ「完全遮光×自動開閉」のこちらも人気です。前の記事で紹介した傘です。
 
-<!-- ここにもしもリンク: konciwa -->
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"konciwa 日傘 軽量 189g-199g UVカット率 100% 完全遮光 遮熱 反射冷却素材採用 Ultra AIR ワンタッチ自動開閉 折りたたみ傘 コンパクト 紫外線遮断 耐風撥水 晴雨兼用 携帯便利 メンズ レディース 母の日 父の日","b":"konciwa","t":"","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/316-3vQ7UKL._SL500_.jpg","\/41Ec1Ixim2L._SL500_.jpg","\/414GM-XgvtL._SL500_.jpg","\/413ga0h32qL._SL500_.jpg","\/41r9TpRK-iL._SL500_.jpg","\/41ESoEThrfL._SL500_.jpg","\/41V3FlYunBL._SL500_.jpg","\/41Yfoeb7n9L._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B0GSG1T277","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B0GSG1T277","a_id":3657745,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/konciwa%20%E6%97%A5%E5%82%98%20%E8%BB%BD%E9%87%8F%20189g-199g%20UV%E3%82%AB%E3%83%83%E3%83%88%E7%8E%87%20100%25%20%E5%AE%8C%E5%85%A8%E9%81%AE%E5%85%89%20%E9%81%AE%E7%86%B1%20%E5%8F%8D%E5%B0%84%E5%86%B7%E5%8D%B4%E7%B4%A0%E6%9D%90%E6%8E%A1%E7%94%A8%20Ultra%20AIR%20%E3%83%AF%E3%83%B3%E3%82%BF%E3%83%83%E3%83%81%E8%87%AA%E5%8B%95%E9%96%8B%E9%96%89%20%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF%E5%82%98%20%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%20%E7%B4%AB%E5%A4%96%E7%B7%9A%E9%81%AE%E6%96%AD%20%E8%80%90%E9%A2%A8%E6%92%A5%E6%B0%B4%20%E6%99%B4%E9%9B%A8%E5%85%BC%E7%94%A8%20%E6%90%BA%E5%B8%AF%E4%BE%BF%E5%88%A9%20%E3%83%A1%E3%83%B3%E3%82%BA%20%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9%20%E6%AF%8D%E3%81%AE%E6%97%A5%20%E7%88%B6%E3%81%AE%E6%97%A5\/","a_id":3657735,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=konciwa%20%E6%97%A5%E5%82%98%20%E8%BB%BD%E9%87%8F%20189g-199g%20UV%E3%82%AB%E3%83%83%E3%83%88%E7%8E%87%20100%25%20%E5%AE%8C%E5%85%A8%E9%81%AE%E5%85%89%20%E9%81%AE%E7%86%B1%20%E5%8F%8D%E5%B0%84%E5%86%B7%E5%8D%B4%E7%B4%A0%E6%9D%90%E6%8E%A1%E7%94%A8%20Ultra%20AIR%20%E3%83%AF%E3%83%B3%E3%82%BF%E3%83%83%E3%83%81%E8%87%AA%E5%8B%95%E9%96%8B%E9%96%89%20%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF%E5%82%98%20%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%20%E7%B4%AB%E5%A4%96%E7%B7%9A%E9%81%AE%E6%96%AD%20%E8%80%90%E9%A2%A8%E6%92%A5%E6%B0%B4%20%E6%99%B4%E9%9B%A8%E5%85%BC%E7%94%A8%20%E6%90%BA%E5%B8%AF%E4%BE%BF%E5%88%A9%20%E3%83%A1%E3%83%B3%E3%82%BA%20%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9%20%E6%AF%8D%E3%81%AE%E6%97%A5%20%E7%88%B6%E3%81%AE%E6%97%A5","a_id":3660045,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"LYBH3","s":"s"});
+</script>
+<div id="msmaflink-LYBH3">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
 
 ## まとめ
 
