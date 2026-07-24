@@ -1,0 +1,146 @@
+---
+import { getCollection } from 'astro:content';
+
+// ピックアップ記事：表示したい記事のファイル名（.md を除いたもの）を並べてください
+const PICKUP_IDS = [
+	'2026-07-19-workman-higasa-review',
+	'2026-07-10-muji-circulator',
+	'2025-10-09-protein-diet',
+];
+
+// 表示中の記事はリストから除く
+const currentId = Astro.url.pathname.replace(/^\/blog\//, '').replace(/\/$/, '');
+
+const posts = await getCollection('blog');
+
+const pickup = PICKUP_IDS.flatMap((id) => {
+	const found = posts.find((p) => p.id === id);
+	return found && found.id !== currentId ? [found] : [];
+});
+
+const recent = posts
+	.filter((p) => p.id !== currentId)
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+	.slice(0, 5);
+
+const fmt = (d: Date) =>
+	d.toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+
+<aside class="sidebar">
+	<section class="side-box">
+		<h2 class="side-title">プロフィール</h2>
+		<p class="profile-name">つぐみ</p>
+		<p class="profile-text">
+			青森の雪国ぐらし、40代。ズボラだけど気に入ったものは長く使うタイプです。買ってよかったものも、イマイチだったものも正直に書いています。
+		</p>
+		<a class="side-more" href="/about/">くわしいプロフィール →</a>
+	</section>
+
+	{
+		pickup.length > 0 && (
+			<section class="side-box">
+				<h2 class="side-title">よく読まれています</h2>
+				<ul class="side-list">
+					{pickup.map((post) => (
+						<li>
+							<a href={`/blog/${post.id}/`}>{post.data.title}</a>
+						</li>
+					))}
+				</ul>
+			</section>
+		)
+	}
+
+	<section class="side-box">
+		<h2 class="side-title">最新の記事</h2>
+		<ul class="side-list">
+			{
+				recent.map((post) => (
+					<li>
+						<a href={`/blog/${post.id}/`}>
+							<time datetime={post.data.pubDate.toISOString()}>{fmt(post.data.pubDate)}</time>
+							<span>{post.data.title}</span>
+						</a>
+					</li>
+				))
+			}
+		</ul>
+		<a class="side-more" href="/">記事一覧を見る →</a>
+	</section>
+</aside>
+
+<style>
+	.sidebar {
+		font-size: 0.9rem;
+		line-height: 1.7;
+	}
+	.side-box {
+		background: #fff;
+		border: 1px solid #eee;
+		border-radius: 12px;
+		padding: 1.1rem 1.2rem;
+		margin-bottom: 1.2rem;
+	}
+	.side-title {
+		margin: 0 0 0.8rem;
+		padding-bottom: 0.4rem;
+		font-size: 1rem;
+		border-bottom: 2px solid #e1f5ee;
+	}
+	.profile-name {
+		margin: 0 0 0.3rem;
+		font-weight: bold;
+		color: #2d6e62;
+	}
+	.profile-text {
+		margin: 0 0 0.8rem;
+		font-size: 0.85rem;
+		color: #666;
+	}
+	.side-list {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	.side-list li {
+		border-bottom: 1px dashed #eee;
+	}
+	.side-list li:last-child {
+		border-bottom: none;
+	}
+	.side-list a {
+		display: block;
+		padding: 0.65rem 0;
+		text-decoration: none;
+		color: #333;
+		font-size: 0.88rem;
+		line-height: 1.6;
+	}
+	.side-list a:hover {
+		color: var(--accent-dark);
+	}
+	.side-list time {
+		display: block;
+		font-size: 0.75rem;
+		color: #aaa;
+		margin-bottom: 0.15rem;
+	}
+	.side-more {
+		display: inline-block;
+		margin-top: 0.6rem;
+		font-size: 0.8rem;
+		text-decoration: none;
+		color: var(--accent-dark);
+	}
+	.side-more:hover {
+		text-decoration: underline;
+	}
+
+	@media (min-width: 1100px) {
+		.sidebar {
+			position: sticky;
+			top: 2rem;
+		}
+	}
+</style>
