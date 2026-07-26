@@ -37,6 +37,7 @@ export const POST_CATEGORY: Record<string, CategorySlug> = {
 
 	// からだのこと
 	'2025-10-09-protein-diet': 'karada',
+	'2026-07-27-apple-watch-se3-kenkou': 'karada',
 	'2022-06-27-aitaisoseikei-infield': 'karada',
 	'2022-09-10-cleansingshampoo': 'karada',
 
