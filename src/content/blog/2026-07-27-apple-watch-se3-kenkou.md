@@ -173,6 +173,9 @@ msmaflink({"n":"MYAPULUA Apple Watch ナイロン スポーツループバンド
 ## まとめ：健康管理が気になるすべての人に
 
 Apple Watch SE 3は、**健康管理が気になっているすべての人におすすめしたい**です。
+## まとめ：健康管理が気になるすべての人に
+
+Apple Watch SE 3は、**健康管理が気になっているすべての人におすすめしたい**です。
 
 - 上位モデルじゃなくても、健康管理に必要な機能はそろっている
 
@@ -183,5 +186,18 @@ Apple Watch SE 3は、**健康管理が気になっているすべての人に�
 - ただしバンドは肌に合うものを選んで
 
 「ちゃんと管理しよう」と気合を入れなくても、着けているだけで勝手に記録してくれる。ズボラな私が4年以上続けられているのは、たぶんそれが理由です。
+
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"Apple Watch SE 3(GPSモデル)- 40mmミッドナイトアルミニウムケースとミッドナイトスポーツバンド - S\/M","b":"Apple(アップル)","t":"","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/41zq8sOAKSL._SL500_.jpg","\/41KduW28utL._SL500_.jpg","\/41oVaY8bMIL._SL500_.jpg","\/411CUck4pSL._SL500_.jpg","\/41P7nmnmToL._SL500_.jpg","\/31N1R+KfO5L._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B0FQG8KZCL","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B0FQG8KZCL","a_id":3657745,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/Apple%20Watch%20SE%203(GPS%E3%83%A2%E3%83%87%E3%83%AB)-%2040mm%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E3%82%B1%E3%83%BC%E3%82%B9%E3%81%A8%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%83%90%E3%83%B3%E3%83%89%20-%20S%2FM\/","a_id":3657735,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1&p=Apple%20Watch%20SE%203(GPS%E3%83%A2%E3%83%87%E3%83%AB)-%2040mm%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E3%82%B1%E3%83%BC%E3%82%B9%E3%81%A8%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%83%90%E3%83%B3%E3%83%89%20-%20S%2FM","a_id":3660045,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"rSiDqB","s":"s"});
+</script>
+<div id="msmaflink-rSiDqB">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
 
 ありがとうございました。
