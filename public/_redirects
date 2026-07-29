@@ -46,3 +46,12 @@
 /qoo10-megawari-2022-nov-3/* /blog 301
 /raxy-2023 /blog 301
 /raxy-2023/* /blog 301
+# WordPress時代のトップページ・カテゴリページ
+/home /  301
+/home/* /  301
+/category /blog 301
+/category/* /blog 301
+/tag /blog 301
+/tag/* /blog 301
+/author /blog 301
+/author/* /blog 301
