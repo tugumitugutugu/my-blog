@@ -24,7 +24,18 @@ pubDate: 2026-08-18
 
 - 使ってみてわかった不満点
 
-<!-- ▼▼▼ もしもリンク①：Dell SE2726D をここに貼る ▼▼▼ -->
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"Dell SE2726D 27インチ モニター","b":"Dell","t":"SE2726D","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/41lRB7aHB7L._SL500_.jpg","\/41S30BW4YTL._SL500_.jpg","\/51gbtx0SHtL._SL500_.jpg","\/41WyM+wV6VL._SL500_.jpg","\/51+alMpfU-L._SL500_.jpg","\/41a-T8buxYL._SL500_.jpg","\/51-QqQFmIRL._SL500_.jpg","\/41Hl+-h4oCL._SL500_.jpg","\/31B6A+P0rVL._SL500_.jpg","\/51uAW0wvdpL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B0GR4S5RTW","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B0GR4S5RTW","a_id":3657745,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/Dell%20SE2726D%2027%E3%82%A4%E3%83%B3%E3%83%81%20%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC\/","a_id":3657735,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=Dell%20SE2726D%2027%E3%82%A4%E3%83%B3%E3%83%81%20%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC","a_id":3660045,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"7e1pj","s":"s"});
+</script>
+<div id="msmaflink-7e1pj">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
 
 ![デスクに設置したDell SE2726DとMacBook Air](/dell-se2726d-desk-setup.jpg)
 
