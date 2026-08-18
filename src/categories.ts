@@ -26,6 +26,7 @@ export const DEFAULT_CATEGORY: CategorySlug = 'okiniiri';
 
 export const POST_CATEGORY: Record<string, CategorySlug> = {
 	// 暮らしのお気に入り
+	'2026-08-18-dell-se2726d-macbook': 'okiniiri',
 	'2026-07-19-workman-higasa-review': 'okiniiri',
 	'2022-07-30-solshade-higasa-kouka': 'okiniiri',
 	'2026-07-10-muji-circulator': 'okiniiri',
