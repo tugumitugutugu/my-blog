@@ -112,7 +112,18 @@ HDMIが1つ、USB-Cが2つ、USB-Aが2つ付いていて、**MacBookの充電も
 
 でも逆に言うと、**調べずに買っていたら、届いた日につながらなくて途方に暮れていた**ということでもあります。ここは本当に気をつけてください。
 
-<!-- ▼▼▼ もしもリンク②：UGREEN USB-Cハブ をここに貼る ▼▼▼ -->
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"UGREEN usb c ハブ 5in1 39g超軽量 HDMI出力 4K60Hz 10Gbps転送 ワンタッチ画面オフ機能付き+ケーブル収納設計","b":"UGREEN","t":"95189","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/31949BnDaqL._SL500_.jpg","\/41p7Vq3g66L._SL500_.jpg","\/41eT-+qreJL._SL500_.jpg","\/51j3sBWwfyL._SL500_.jpg","\/41uUWhUdclL._SL500_.jpg","\/41uPGm634vL._SL500_.jpg","\/519DgUrcTrL._SL500_.jpg","\/41j-bVTtLNL._SL500_.jpg","\/41vt26xzACL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B0G64Z8YP2","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B0G64Z8YP2","a_id":3657745,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/UGREEN%20usb%20c%20%E3%83%8F%E3%83%96%205in1%2039g%E8%B6%85%E8%BB%BD%E9%87%8F%20HDMI%E5%87%BA%E5%8A%9B%204K60Hz%2010Gbps%E8%BB%A2%E9%80%81%20%E3%83%AF%E3%83%B3%E3%82%BF%E3%83%83%E3%83%81%E7%94%BB%E9%9D%A2%E3%82%AA%E3%83%95%E6%A9%9F%E8%83%BD%E4%BB%98%E3%81%8D%2B%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E5%8F%8E%E7%B4%8D%E8%A8%AD%E8%A8%88\/","a_id":3657735,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=UGREEN%20usb%20c%20%E3%83%8F%E3%83%96%205in1%2039g%E8%B6%85%E8%BB%BD%E9%87%8F%20HDMI%E5%87%BA%E5%8A%9B%204K60Hz%2010Gbps%E8%BB%A2%E9%80%81%20%E3%83%AF%E3%83%B3%E3%82%BF%E3%83%83%E3%83%81%E7%94%BB%E9%9D%A2%E3%82%AA%E3%83%95%E6%A9%9F%E8%83%BD%E4%BB%98%E3%81%8D%2B%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E5%8F%8E%E7%B4%8D%E8%A8%AD%E8%A8%88","a_id":3660045,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"JZc3X","s":"s"});
+</script>
+<div id="msmaflink-JZc3X">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
 
 **ハブじゃなくてUSB-C→HDMIケーブル1本でもつながります。** USBの差し込み口が要らない人はそっちのほうが安上がりです。ただ、私はMacBookの充電も同時にしたかったのでハブにしました。
 
@@ -171,7 +182,18 @@ HDMIが1つ、USB-Cが2つ、USB-Aが2つ付いていて、**MacBookの充電も
 
 …というのを、**実はモニターと一緒に買ってありました。** 天板を守る補強プレートまで揃えて。なのに**まだ箱から出していません（笑）** 取り付けが面倒で、とりあえず500円の板でしのいでいる、というのが情けない現状です。付けたらこの記事に追記します。
 
-<!-- ▼▼▼ もしもリンク③：モニターアーム をここに貼る ▼▼▼ -->
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"NB ERGONOMIC モニターアーム ディスプレイアーム シングルアーム 17-30インチ対応 耐荷重 2-9Kg ガススプリング pcモニターアーム monitor arm カラー ロング ポール ゲーミングモニターアーム モニタースタンド クランプ式\u0026グロメット式 VESA規格75×75 100×100 モデル: F80-XE","b":"NB ERGONOMIC","t":"F80-XE","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/31efFEj0KCL._SL500_.jpg","\/41Slfzney5L._SL500_.jpg","\/51osqMTCp8L._SL500_.jpg","\/41DYXyx64+L._SL500_.jpg","\/41QkEXcb7tL._SL500_.jpg","\/41sgNkNvpJL._SL500_.jpg","\/41YrGqyczBL._SL500_.jpg","\/51IlipKH0OL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B0F23XR82V","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B0F23XR82V","a_id":3657745,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/NB%20ERGONOMIC%20%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%A0%20%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%A2%E3%83%BC%E3%83%A0%20%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB%E3%82%A2%E3%83%BC%E3%83%A0%2017-30%E3%82%A4%E3%83%B3%E3%83%81%E5%AF%BE%E5%BF%9C%20%E8%80%90%E8%8D%B7%E9%87%8D%202-9Kg%20%E3%82%AC%E3%82%B9%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%20pc%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%A0%20monitor%20arm%20%E3%82%AB%E3%83%A9%E3%83%BC%20%E3%83%AD%E3%83%B3%E3%82%B0%20%E3%83%9D%E3%83%BC%E3%83%AB%20%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%A0%20%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%20%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%97%E5%BC%8F%26%E3%82%B0%E3%83%AD%E3%83%A1%E3%83%83%E3%83%88%E5%BC%8F%20VESA%E8%A6%8F%E6%A0%BC75%C3%9775%20100%C3%97100%20%E3%83%A2%E3%83%87%E3%83%AB%3A%20F80-XE\/","a_id":3657735,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=NB%20ERGONOMIC%20%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%A0%20%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%A2%E3%83%BC%E3%83%A0%20%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB%E3%82%A2%E3%83%BC%E3%83%A0%2017-30%E3%82%A4%E3%83%B3%E3%83%81%E5%AF%BE%E5%BF%9C%20%E8%80%90%E8%8D%B7%E9%87%8D%202-9Kg%20%E3%82%AC%E3%82%B9%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%20pc%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%A0%20monitor%20arm%20%E3%82%AB%E3%83%A9%E3%83%BC%20%E3%83%AD%E3%83%B3%E3%82%B0%20%E3%83%9D%E3%83%BC%E3%83%AB%20%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%A0%20%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%20%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%97%E5%BC%8F%26%E3%82%B0%E3%83%AD%E3%83%A1%E3%83%83%E3%83%88%E5%BC%8F%20VESA%E8%A6%8F%E6%A0%BC75%C3%9775%20100%C3%97100%20%E3%83%A2%E3%83%87%E3%83%AB%3A%20F80-XE","a_id":3660045,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"fRvN3","s":"s"});
+</script>
+<div id="msmaflink-fRvN3">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
 
 ## こんな人におすすめ
 
