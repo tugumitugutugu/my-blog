@@ -14,3 +14,17 @@
 .blog-card .blog-card-label{align-self:flex-start;background:var(--accent);color:#fff;font-size:.68em;font-weight:bold;padding:.15em .9em;border-radius:999px;}
 .blog-card .blog-card-title{font-weight:bold;line-height:1.5;font-size:.95em;}
 @media (max-width:600px){.blog-card .blog-card-thumb{flex-basis:90px;font-size:.7em;}}
+
+/* 記事内の比較表（チョコミント配色） */
+.prose table{width:100%;border-collapse:collapse;margin:2em 0;font-size:.95em;background:#fff;border-radius:10px;overflow:hidden;box-shadow:0 1px 6px rgba(58,158,138,.12);}
+.prose table th,.prose table td{border:1px solid #d3ece4;padding:.8em 1em;text-align:left;vertical-align:middle;}
+.prose table thead th{background:#dff3ed;color:#4a3a30;font-weight:bold;text-align:center;border-bottom:2px solid #6b5445;}
+.prose table thead th:first-child{background:#fff;border-top-color:transparent;border-left-color:transparent;}
+.prose table tbody td:first-child{background:#f5fbf9;color:#4a3a30;font-weight:bold;white-space:nowrap;}
+.prose table thead th:nth-child(2){background:#b9e5d9;}
+.prose table tbody td:nth-child(2){background:#f0faf6;font-weight:bold;}
+.prose table tbody tr:last-child td{border-bottom:none;}
+@media (max-width:600px){
+  .prose table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch;font-size:.85em;}
+  .prose table th,.prose table td{padding:.6em .7em;}
+}
