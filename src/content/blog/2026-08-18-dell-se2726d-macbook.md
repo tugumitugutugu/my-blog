@@ -2,6 +2,7 @@
 title: "MacBook Airに27インチモニターを足したら世界が変わった｜Dell SE2726D正直レビュー"
 description: "MacBook Airの13インチが狭くてDell SE2726Dを買いました。7月のプライムセールで18,980円。見やすさは値段以上でしたが、台座の大きさと高さ調整なしには正直悩んでいます。SE2726Hとの違いや、MacBookにつなぐのに必要なものまで書きました。"
 pubDate: 2026-08-18
+heroImage: "../../assets/dell-se2726d-eyecatch.jpg"
 ---
 
 こんにちは、つぐみです。
