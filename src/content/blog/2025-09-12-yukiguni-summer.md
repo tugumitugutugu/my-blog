@@ -121,3 +121,7 @@ heroImage: "../../assets/yukiguni-summer-eyecatch.jpg"
 冬の寒さや大雪に比べれば、と思って自分を納得させることも。
 
 **夏の味覚を味わいながら、短い夏をうまく乗りこなしていきたい**――それが、私の夏との付き合い方です。
+
+そして暑さがやわらいでくると、今度は秋の楽しみが待っています。肌寒くなってきた頃に食べるきりたんぽは、雪国の秋のごちそうです。
+
+<div class="blog-card"><a href="/blog/2022-10-15-kiritannpomaturi-2022/"><span class="blog-card-thumb">つぐぶろぐ</span><span class="blog-card-body"><span class="blog-card-label">あわせて読みたい</span><span class="blog-card-title">本場大館きりたんぽまつり２０２２できりたんぽ食べ比べ</span></span></a></div>
