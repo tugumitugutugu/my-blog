@@ -110,3 +110,8 @@ msmaflink({"n":"【体重計】INSMART 体脂肪計・体組成計 16項目測�
 ありがとうございました。
 
 体重が落ちない原因を筋肉量から考えた記事もあります。※ [４０代女性必見！体重が落ちない原因は筋肉量の減少？](/blog/2025-10-09-protein-diet/)でどうぞ。
+
+
+体組成計で体の中身がわかるようになると、次に気になるのは「どれだけ動いたか」。歩数や睡眠まで記録するようになってから、数字のつながりが見えるようになりました。
+
+<div class="blog-card"><a href="/blog/2026-07-27-apple-watch-se3-kenkou/"><img class="blog-card-thumb" src="/applewatch-se3-face.jpg" alt=""><span class="blog-card-body"><span class="blog-card-label">あわせて読みたい</span><span class="blog-card-title">旧SEを売ったら実質26,580円｜Apple Watch SE 3買い替えレビュー</span></span></a></div>
