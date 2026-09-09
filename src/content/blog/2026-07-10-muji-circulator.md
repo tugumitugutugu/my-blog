@@ -85,6 +85,10 @@ MJ-OCF18は省エネなDCモーター搭載で、消費電力は弱7W・中11W�
 
 そして雪国の私が期待しているのは、むしろ**冬の活躍**。暖房の暖かい空気は天井にたまりがちですが、サーキュレーターで循環させれば部屋全体が効率よく暖まります。**灯油代が上がり続けるなか**、1時間1円もかからないサーキュレーターで暖房効率を上げられるなら、冬の光熱費の節約にもつながりそうです。
 
+ちなみに暖房そのものについては、遠赤外線ヒーターを2年使った記録もあります。
+
+<div class="blog-card"><a href="/blog/2022-11-05-daikinn-seramuhi-to-2020/"><img class="blog-card-thumb" src="/ceramheat-front.jpg" alt=""><span class="blog-card-body"><span class="blog-card-label">あわせて読みたい</span><span class="blog-card-title">ダイキン セラムヒート 雪国で感じる良さと電気代は？</span></span></a></div>
+
 ## ５．こんな人におすすめ
 
 - サーキュレーターの**音にストレス**を感じている方
