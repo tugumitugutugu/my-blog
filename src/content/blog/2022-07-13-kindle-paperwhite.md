@@ -119,6 +119,14 @@ Wi-Fi8GB広告付き（漫画なら１３０冊保存できる）
 
 １万円で電子書籍リーダーが買えるの安いです。秋のブラックフライデーまで迷うのもいいのですがKindle Unlimitedが３ヶ月無料なのは今だけなので、そちらだけでもスマホやタブレットで楽しむのが一番お買い得ですね。
 
+## Kindle Unlimitedで実際に読んだ本
+
+読み放題で読んで、特に印象に残っている2冊の感想はこちらです。
+
+<div class="blog-card"><a href="/blog/2022-10-08-book-sodatigaiihito/"><span class="blog-card-thumb">つぐぶろぐ</span><span class="blog-card-body"><span class="blog-card-label">あわせて読みたい</span><span class="blog-card-title">育ちがいい人だけが知っていること 読書感想文</span></span></a></div>
+
+<div class="blog-card"><a href="/blog/2022-10-22-book-banananomiryoku/"><span class="blog-card-thumb">つぐぶろぐ</span><span class="blog-card-body"><span class="blog-card-label">あわせて読みたい</span><span class="blog-card-title">バナナの魅力を１００文字で伝えてください。読書感想</span></span></a></div>
+
 ## 最後に
 
 いかがでしたか？
