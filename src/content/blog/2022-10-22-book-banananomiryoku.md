@@ -34,6 +34,8 @@ pubDate: 2022-10-22
 
 後半にはどうしても話が伝わらない人へのクスッと笑える対処法が書かれていて面白かったです。
 
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
 (function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
 b[a]=b[a]||function(){arguments.currentScript=c.currentScript
 ||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
@@ -41,8 +43,9 @@ c.getElementById(a)||(d=c.createElement(f),d.src=g,
 d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
 (window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
 msmaflink({"n":"バナナの魅力を100文字で伝えてください 誰でも身につく36の伝わる法則 [ 柿内　尚文 ]","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"","p":["\/@0_mall\/book\/cabinet\/5778\/9784761275778_1_3.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/book\/16876074\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/book\/16876074\/","a_id":3657735,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1},{"id":2,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=%E3%83%90%E3%83%8A%E3%83%8A%E3%81%AE%E9%AD%85%E5%8A%9B%E3%82%92100%E6%96%87%E5%AD%97%E3%81%A7%E4%BC%9D%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%20%E8%AA%B0%E3%81%A7%E3%82%82%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%8F36%E3%81%AE%E4%BC%9D%E3%82%8F%E3%82%8B%E6%B3%95%E5%89%87%20%5B%20%E6%9F%BF%E5%86%85%E3%80%80%E5%B0%9A%E6%96%87%20%5D","a_id":3660045,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":2},{"u_bc":"#f79256","u_tx":"Amazonで見る","u_url":"https:\/\/www.amazon.co.jp\/s\/ref=nb_sb_noss_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A\u0026url=search-alias%3Daps\u0026field-keywords=%E3%83%90%E3%83%8A%E3%83%8A%E3%81%AE%E9%AD%85%E5%8A%9B%E3%82%92100%E6%96%87%E5%AD%97%E3%81%A7%E4%BC%9D%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%20%E8%AA%B0%E3%81%A7%E3%82%82%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%8F36%E3%81%AE%E4%BC%9D%E3%82%8F%E3%82%8B%E6%B3%95%E5%89%87%20%5B%20%E6%9F%BF%E5%86%85%E3%80%80%E5%B0%9A%E6%96%87%20%5D","s_n":"amazon","u_so":4,"a_id":3657745,"p_id":170,"pc_id":185,"pl_id":27060,"id":3}],"eid":"IimNK","s":"s"});
-
-リンク
+</script>
+<div id="msmaflink-IimNK">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
 
 『バナナの魅力を１００文字で説明してください。誰でも身につく３６の法則』
 発売日：２０２１年１２月１７日
@@ -160,6 +163,8 @@ msmaflink({"n":"バナナの魅力を100文字で伝えてください 誰でも
 
 内容は人とのコミュニケーションにも使えるし、ブログのタイトルや記事を書くときも参考になるものばかりです。
 
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
 (function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
 b[a]=b[a]||function(){arguments.currentScript=c.currentScript
 ||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
@@ -167,11 +172,14 @@ c.getElementById(a)||(d=c.createElement(f),d.src=g,
 d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
 (window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
 msmaflink({"n":"バナナの魅力を100文字で伝えてください 誰でも身につく36の伝わる法則","b":"","t":"","d":"https:\/\/m.media-amazon.com","c_p":"","p":["\/images\/I\/51qgXOHYYhL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B09NRKRC9Q","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":3,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B09NRKRC9Q","a_id":3657745,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"u_bc":"#f76956","u_tx":"楽天市場で見る","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/%E3%83%90%E3%83%8A%E3%83%8A%E3%81%AE%E9%AD%85%E5%8A%9B%E3%82%92100%E6%96%87%E5%AD%97%E3%81%A7%E4%BC%9D%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%20%E8%AA%B0%E3%81%A7%E3%82%82%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%8F36%E3%81%AE%E4%BC%9D%E3%82%8F%E3%82%8B%E6%B3%95%E5%89%87\/","s_n":"rakuten","u_so":2,"a_id":3657735,"p_id":54,"pc_id":54,"pl_id":27059,"id":4},{"u_bc":"#66a7ff","u_tx":"Yahoo!ショッピングで見る","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=%E3%83%90%E3%83%8A%E3%83%8A%E3%81%AE%E9%AD%85%E5%8A%9B%E3%82%92100%E6%96%87%E5%AD%97%E3%81%A7%E4%BC%9D%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%20%E8%AA%B0%E3%81%A7%E3%82%82%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%8F36%E3%81%AE%E4%BC%9D%E3%82%8F%E3%82%8B%E6%B3%95%E5%89%87","s_n":"yahoo","u_so":3,"a_id":3660045,"p_id":1225,"pc_id":1925,"pl_id":27061}],"eid":"U9D16","s":"s"});
-
-リンク
+</script>
+<div id="msmaflink-U9D16">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
 
 そんな本が読み放題のKindle unlimited、気になっていたあの本も読み放題かも。
 
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
 (function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
 b[a]=b[a]||function(){arguments.currentScript=c.currentScript
 ||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
@@ -179,5 +187,6 @@ c.getElementById(a)||(d=c.createElement(f),d.src=g,
 d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
 (window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
 msmaflink({"n":"Kindle Paperwhite (8GB) 6.8インチディスプレイ 色調調節ライト搭載 広告なし","b":"Amazon","t":"53-026460","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/41ENVipY1kL._SL500_.jpg","\/618n9fRBa5L._SL500_.jpg","\/41I9mQuAn0L._SL500_.jpg","\/51pMQYaQ9kL._SL500_.jpg","\/41il5Q2doWL._SL500_.jpg","\/410wPQVEYLL._SL500_.jpg","\/31DjqWT428L._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B08N3J8GTX","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":3,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B08N3J8GTX","a_id":3657745,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"u_bc":"#f76956","u_tx":"楽天市場で見る","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/Kindle%20Paperwhite%20(8GB)%206.8%E3%82%A4%E3%83%B3%E3%83%81%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%20%E8%89%B2%E8%AA%BF%E8%AA%BF%E7%AF%80%E3%83%A9%E3%82%A4%E3%83%88%E6%90%AD%E8%BC%89%20%E5%BA%83%E5%91%8A%E3%81%AA%E3%81%97\/","s_n":"rakuten","u_so":2,"a_id":3657735,"p_id":54,"pc_id":54,"pl_id":27059,"id":4},{"u_bc":"#66a7ff","u_tx":"Yahoo!ショッピングで見る","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=Kindle%20Paperwhite%20(8GB)%206.8%E3%82%A4%E3%83%B3%E3%83%81%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%20%E8%89%B2%E8%AA%BF%E8%AA%BF%E7%AF%80%E3%83%A9%E3%82%A4%E3%83%88%E6%90%AD%E8%BC%89%20%E5%BA%83%E5%91%8A%E3%81%AA%E3%81%97","s_n":"yahoo","u_so":3,"a_id":3660045,"p_id":1225,"pc_id":1925,"pl_id":27061,"id":5}],"eid":"aPIMg","s":"s"});
-
-リンク
+</script>
+<div id="msmaflink-aPIMg">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
